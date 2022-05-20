@@ -1,0 +1,22 @@
+{
+    "titleofhomepage": "Fruit Market",
+    "splash": "Fruit Market",
+    "skip": "Skip",
+    "next": "Next",
+    "getstarted": "Get Started",
+    "loginwith": "Login in With",
+    "login": "Login",
+    "search": "search",  
+    "fruits": "Fruits",
+  "vegetables" : "Vegetables",
+  "dryfruits" : "Dry Fruits",
+  "oraganicfruits" : "Organic Fruits",
+  "myorders" : "My Orders",
+  "favourts" : "Favourites",
+  "settings" : "Settings",
+  "mycart" : "My Cart",
+  "rateus" : "Rate US",
+  "refer" : "Refer a Friend",
+  "help" : "Help",
+  "logout" : "Log Out"
+}
